@@ -1,6 +1,10 @@
 # Demo Git Repository
 this is the first file in the repo
 
-##Website Status
+##Website Contents
+
+Here are files in the website
+
+1. index.html
 
 
